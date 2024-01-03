@@ -27,3 +27,6 @@ public class Program
             {
                 max = arr[i];
             }
+        }
+
+        Console.WriteLine("минимальное значение: " + min);
