@@ -1,0 +1,15 @@
+C:\Users\пк\Desktop\учеба\итоговая работа\new-rep\bin\Debug\net7.0\new-rep.exe
+C:\Users\пк\Desktop\учеба\итоговая работа\new-rep\bin\Debug\net7.0\new-rep.deps.json
+C:\Users\пк\Desktop\учеба\итоговая работа\new-rep\bin\Debug\net7.0\new-rep.runtimeconfig.json
+C:\Users\пк\Desktop\учеба\итоговая работа\new-rep\bin\Debug\net7.0\new-rep.dll
+C:\Users\пк\Desktop\учеба\итоговая работа\new-rep\bin\Debug\net7.0\new-rep.pdb
+C:\Users\пк\Desktop\учеба\итоговая работа\new-rep\obj\Debug\net7.0\new-rep.csproj.AssemblyReference.cache
+C:\Users\пк\Desktop\учеба\итоговая работа\new-rep\obj\Debug\net7.0\new-rep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пк\Desktop\учеба\итоговая работа\new-rep\obj\Debug\net7.0\new-rep.AssemblyInfoInputs.cache
+C:\Users\пк\Desktop\учеба\итоговая работа\new-rep\obj\Debug\net7.0\new-rep.AssemblyInfo.cs
+C:\Users\пк\Desktop\учеба\итоговая работа\new-rep\obj\Debug\net7.0\new-rep.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\учеба\итоговая работа\new-rep\obj\Debug\net7.0\new-rep.dll
+C:\Users\пк\Desktop\учеба\итоговая работа\new-rep\obj\Debug\net7.0\refint\new-rep.dll
+C:\Users\пк\Desktop\учеба\итоговая работа\new-rep\obj\Debug\net7.0\new-rep.pdb
+C:\Users\пк\Desktop\учеба\итоговая работа\new-rep\obj\Debug\net7.0\new-rep.genruntimeconfig.cache
+C:\Users\пк\Desktop\учеба\итоговая работа\new-rep\obj\Debug\net7.0\ref\new-rep.dll
