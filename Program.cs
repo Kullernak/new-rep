@@ -30,3 +30,6 @@ public class Program
         }
 
         Console.WriteLine("минимальное значение: " + min);
+        Console.WriteLine("максимальное значение: " + max);
+    }
+}
